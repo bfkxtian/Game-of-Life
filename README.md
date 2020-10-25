@@ -1,12 +1,9 @@
 # Game-of-Life
 Conway's Game of Life
 
-A simple implementation of Game of Life in Python w/ Pygame
+A simple implementation of Game of Life, written in python/pygame.
 
-Controls:
-  SPACE: Toggle Editor 
-    LEFT MOUSE: Place cell at positon
-    RIGHT MOUSE: Kill cell at position
-  ESCAPE: Exit Game
-
-Once all cells have been placed, SPACE resumes simulation.
+Controls: 
+  Left-click = Place cell
+  Right-click = Destroy cell
+  Space: Start/Stop simulation
